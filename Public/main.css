@@ -15,7 +15,7 @@
   }
   h1 {
     color: white;
-    font-family: "Titan One", cursive;
+    font-family:'Times New Roman', Times, serif;
     margin-bottom: 20px;
   }
   .card {
@@ -113,6 +113,6 @@
   .user {
     color: white;
     font-size: 24px;
-    font-family: "Titan One", cursive;
+    font-family:'Times New Roman', Times, serif;
   }
   
